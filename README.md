@@ -13,3 +13,10 @@ by : omar samy
 content of the repo: 
 
 [![MIT License](https://img.shields.io/badge/c%20basic%20assignments-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/c-assignments/c-basics)
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-samy-69a7241b0/)
+
+
