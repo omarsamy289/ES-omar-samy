@@ -157,6 +157,5 @@ int main () {
 ```
 
 
-[![MIT License](https://img.shields.io/badge/go%20to%20top-1A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/c-assignments/c-basics)
-
+[![MIT License](https://img.shields.io/badge/go%20to%20screenshots-1A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/c-assignments/c-basics/screen%20shot)
 
