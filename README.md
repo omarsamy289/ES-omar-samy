@@ -8,11 +8,12 @@
 by : omar samy
 
 
-## content
-
-content of the repo: 
+## content of the repo: 
 
 [![MIT License](https://img.shields.io/badge/c%20basic%20assignments-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/c-assignments/c-basics)
+[![MIT License](https://img.shields.io/badge/c%20conditions%20and%20loops%20assignments-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/c-assignments/loops%20and%20conditions)
+
+
 
 
 ## 🔗 Links
