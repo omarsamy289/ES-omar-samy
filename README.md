@@ -11,7 +11,7 @@ by : omar samy
 ## content of the repo: 
 
 ```bash
- note : every assignment have it's own c files and output screenshots 
+ note : every assignment has it's own c files and output screenshots 
 ```
 [![MIT License](https://img.shields.io/badge/c%20basic%20assignments-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/c-assignments/c-basics)
 [![MIT License](https://img.shields.io/badge/c%20conditions%20and%20loops%20assignments-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/c-assignments/loops%20and%20conditions)
