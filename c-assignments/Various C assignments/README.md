@@ -4,6 +4,7 @@
 
 ## by : omar samy
 
+[![MIT License](https://img.shields.io/badge/go%20to%20screenshots-1A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/c-assignments/Various%20C%20assignments/screenshots/collected%20test%20cases)
 
 ## 1- function to take a number and sum all the digits
 
@@ -442,5 +443,5 @@ return count ;
 ```
 
 
-[![MIT License](https://img.shields.io/badge/go%20to%20screenshots-1A5BE2)]()
+[![MIT License](https://img.shields.io/badge/go%20to%20screenshots-1A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/c-assignments/Various%20C%20assignments/screenshots/collected%20test%20cases)
 
