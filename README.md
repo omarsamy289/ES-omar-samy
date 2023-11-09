@@ -4,9 +4,7 @@
 
 # Embeded System : learn in depth 
 
-
 ## by : omar samy
-
 
 ## content of the repo: 
 
@@ -14,8 +12,14 @@
  click on the unit name below to expand further details !
 > 
 ### 
+
+
 <details open >
-  <summary> <h1> 📝 UNIT 2  </h1></summary> 
+  <summary> <h1> 📚 first term </h1></summary> 
+<ol>
+
+<details open >
+  <summary> <h1> 👨‍💻 UNIT 2  </h1></summary> 
 <ol>
 
 
@@ -49,15 +53,19 @@ sorry nothing here yet !
 </ol>
 </details>
 
+</ol>
+</details>
 
 &nbsp;
 &nbsp;
 
-# still working in progress
+# > progress
+![23%](https://progress-bar.dev/23/?width=1000&color=7A5BE2&title=>%20overall%20progress)
  # first term : 
--  ## UNIT 1 ![](https://geps.dev/progress/100?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=7A5BE2)
--  ## UNIT 2 ![](https://geps.dev/progress/60?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
--  ## UNIT 3 ![](https://geps.dev/progress/0?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+ -  ## UNIT 1 ![](https://geps.dev/progress/100?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=7A5BE2)
+ ## > UNIT 2 ![](https://geps.dev/progress/60?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+ -  ## UNIT 3 ![](https://geps.dev/progress/0?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+ -  ## UNIT 4 ![](https://geps.dev/progress/0?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
 
 &nbsp;
 
