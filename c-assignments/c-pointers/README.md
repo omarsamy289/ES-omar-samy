@@ -4,7 +4,7 @@
 
 ## by : omar samy
 
-[![MIT License](https://img.shields.io/badge/go%20to%20screenshots-1A5BE2)]()
+[![MIT License](https://img.shields.io/badge/go%20to%20screenshots-1A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/c-assignments/c-pointers/screenshots)
 
 ## 1-program demonstrate how to handle pointers during the program
 
@@ -187,7 +187,7 @@ int main () {
 
 
 ```
-[![MIT License](https://img.shields.io/badge/go%20to%20screenshots-1A5BE2)]()
+[![MIT License](https://img.shields.io/badge/go%20to%20screenshots-1A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/c-assignments/c-pointers/screenshots)
 
 
 
