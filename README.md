@@ -19,11 +19,11 @@
 <ol>
 
 <details open >
-  <summary> <h1> 👨‍💻 UNIT 2  </h1></summary> 
+  <summary> <h1>  ✅ UNIT 2  </h1></summary> 
 <ol>
 
 
- ## UNIT 2 ![](https://geps.dev/progress/60?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+ ## UNIT 2 ![](https://geps.dev/progress/100?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
 
  > **Note**
  > every assignment has it's own c files and output screenshots 
@@ -33,16 +33,18 @@
    [![MIT License](https://img.shields.io/badge/c%20arrays%20and%20strings%20assignments-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/c-assignments/arrays%20and%20strings)
   [![MIT License](https://img.shields.io/badge/c%20functions%20assignments-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/c-assignments/c%20functions)
   [![MIT License](https://img.shields.io/badge/mid-terms%20assignments-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/c-assignments/Various%20C%20assignments)
-   [![MIT License](https://img.shields.io/badge/structure%20assignments-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/c-assignments/c%20structure)
+   [![MIT License](https://img.shields.io/badge/c%20structure%20assignments-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/c-assignments/c%20structure)
+    [![MIT License](https://img.shields.io/badge/c%20pointers%20assignments-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/c-assignments/c-pointers)
+
 </ol>
 </details>
 
 <details>
-  <summary> <h1> 🚧 UNIT 3 </h1></summary> 
+  <summary> <h1> 👨‍💻 UNIT 3 </h1></summary> 
 <ol>
 
 
- ## UNIT 3 ![](https://geps.dev/progress/0?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+ ## UNIT 3 ![](https://geps.dev/progress/5?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
 
 
 > **Warning**<br>
@@ -53,6 +55,25 @@ sorry nothing here yet !
 </ol>
 </details>
 
+<details>
+  <summary> <h1> 🚧 UNIT 4 </h1></summary> 
+<ol>
+
+
+ ## UNIT 4 ![](https://geps.dev/progress/0?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+
+
+> **Warning**<br>
+sorry nothing here yet !
+
+ ![Alt Text](https://cdn.dribbble.com/users/932640/screenshots/2470471/jq.gif)
+
+</ol>
+</details>
+
+
+
+
 </ol>
 </details>
 
@@ -60,11 +81,11 @@ sorry nothing here yet !
 &nbsp;
 
 # > progress
-![23%](https://progress-bar.dev/23/?width=1000&color=7A5BE2&title=>%20overall%20progress)
+![26%](https://progress-bar.dev/26/?width=1000&color=7A5BE2&title=>%20overall%20progress)
  # first term : 
- -  ## UNIT 1 ![](https://geps.dev/progress/100?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=7A5BE2)
- ## > UNIT 2 ![](https://geps.dev/progress/60?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
- -  ## UNIT 3 ![](https://geps.dev/progress/0?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+ -  ## UNIT 1 ![](https://geps.dev/progress/100?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+ -  ## UNIT 2 ![](https://geps.dev/progress/100?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+ ## > UNIT 3 ![](https://geps.dev/progress/5?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
  -  ## UNIT 4 ![](https://geps.dev/progress/0?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
 
 &nbsp;
