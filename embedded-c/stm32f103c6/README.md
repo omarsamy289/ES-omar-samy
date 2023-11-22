@@ -1,9 +1,9 @@
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=""><img src="https://i.ibb.co/QfGTFD3/github-embedded-system-thumbnail-projects.png" alt="771" border="0"></a><br /><a target='_blank' href='https://i.ibb.co/QfGTFD3/github-embedded-system-thumbnail-projects.png'>
 
-[![MIT License](https://img.shields.io/badge/c%20file%20-7A5BE2)]()
-[![MIT License](https://img.shields.io/badge/hex%20file%20-7A5BE2)]()
-[![MIT License](https://img.shields.io/badge/sim%20file%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/c%20file%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/embedded-c/stm32f103c6/files/stm32f103cx/Src)
+[![MIT License](https://img.shields.io/badge/hex%20file%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/embedded-c/stm32f103c6/files)
+[![MIT License](https://img.shields.io/badge/sim%20file%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/embedded-c/stm32f103c6/files)
 
 ## modified standard int library
 
@@ -138,11 +138,11 @@ int main(void)
 
  ![Alt Text](https://s5.gifyu.com/images/SRQeQ.gif)
 
-[![MIT License](https://img.shields.io/badge/c%20file%20-7A5BE2)]()
-[![MIT License](https://img.shields.io/badge/hex%20file%20-7A5BE2)]()
-[![MIT License](https://img.shields.io/badge/sim%20file%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/c%20file%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/embedded-c/stm32f103c6/files/stm32f103cx/Src)
+[![MIT License](https://img.shields.io/badge/hex%20file%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/embedded-c/stm32f103c6/files)
+[![MIT License](https://img.shields.io/badge/sim%20file%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/embedded-c/stm32f103c6/files)
 
-[![MIT License](https://img.shields.io/badge/go%20back%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/go%20back%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main)
 
 &nbsp;
 &nbsp;
