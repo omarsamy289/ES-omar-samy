@@ -44,9 +44,10 @@
 <ol>
 
 
- ## UNIT 3 ![](https://geps.dev/progress/25?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+ ## UNIT 3 ![](https://geps.dev/progress/40?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
 
  [![MIT License](https://img.shields.io/badge/stm32f103cx%20toggle%20led-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/embedded-c/stm32f103c6)
+ [![MIT License](https://img.shields.io/badge/VERSATILEPB%20LAB%201-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/embedded-c/verstilepb)
 
 
  
@@ -79,12 +80,12 @@ sorry nothing here yet !
 &nbsp;
 &nbsp;
 
-# > progress
-![26%](https://progress-bar.dev/26/?width=1000&color=7A5BE2&title=>%20overall%20progress)
+# > overall progress
+![35%](https://progress-bar.dev/35/?width=1000&color=7A5BE2&title=>%20overall%20progress)
  # first term : 
  -  ## UNIT 1 ![](https://geps.dev/progress/100?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
  -  ## UNIT 2 ![](https://geps.dev/progress/100?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
- ## > UNIT 3 ![](https://geps.dev/progress/25?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+ ## > UNIT 3 ![](https://geps.dev/progress/40?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
  -  ## UNIT 4 ![](https://geps.dev/progress/0?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
 
 &nbsp;
