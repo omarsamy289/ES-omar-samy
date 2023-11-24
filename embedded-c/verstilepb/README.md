@@ -1,7 +1,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=""><img src="https://iili.io/JocOc8b.md.png" alt="771" border="0"></a><br /><a target='_blank' href='https://iili.io/JocOc8b.md.png'>
 
 
-[![MIT License](https://img.shields.io/badge/ALL%20FILES%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/ALL%20FILES%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/embedded-c/verstilepb/all%20files)
 
 
 # this is a full detailed report on ARM versatilePB LAB 1
@@ -526,7 +526,9 @@ OUTPUT(learn-in-depth.elf elf32-littlearm)
 <a href="https://freeimage.host/i/JochhkQ"><img src="https://iili.io/JochhkQ.md.png" alt="JochhkQ.md.png" border="0"></a>
 
 
-[![MIT License](https://img.shields.io/badge/go%20to%20top%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/ALL%20FILES%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/embedded-c/verstilepb/all%20files)
+
+[![MIT License](https://img.shields.io/badge/go%20to%20top%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/embedded-c/verstilepb)
 
 [![MIT License](https://img.shields.io/badge/go%20back%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main)
 
