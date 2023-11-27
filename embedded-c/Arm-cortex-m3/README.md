@@ -1,7 +1,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=""><img src="https://iili.io/JoLMZlf.md.png" alt="771" border="0"></a><br /><a target='_blank' href='https://iili.io/JoLMZlf.md.png'>
 
 
-[![MIT License](https://img.shields.io/badge/ALL%20FILES%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/embedded-c/verstilepb/all%20files)
+[![MIT License](https://img.shields.io/badge/ALL%20FILES%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/embedded-c/Arm-cortex-m3/All%20files)
 
 # LAB 2
 # this is a full detailed report on ARM cortex-m3 stm32f103c8t6 with linkerscript and startup in c code and dubugging in protues
@@ -654,7 +654,7 @@ File Attributes
 
 
 ### Disassemply of the elf image for refrance 
-[![MIT License](https://img.shields.io/badge/dis%20assembly%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/dis%20assembly%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/blob/main/embedded-c/Arm-cortex-m3/All%20files/disas.txt)
 
 
 
@@ -672,9 +672,9 @@ File Attributes
 
 
 
-[![MIT License](https://img.shields.io/badge/ALL%20FILES%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/ALL%20FILES%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/embedded-c/Arm-cortex-m3/All%20files)
 
-[![MIT License](https://img.shields.io/badge/go%20to%20top%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/go%20to%20top%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/embedded-c/Arm-cortex-m3)
 
 [![MIT License](https://img.shields.io/badge/go%20back%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main)
 
