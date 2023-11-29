@@ -1,7 +1,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=""><img src="https://iili.io/Jx6k5ap.md.png" alt="771" border="0"></a><br /><a target='_blank' href='https://iili.io/Jx6k5ap.md.png'>
 
 
-[![MIT License](https://img.shields.io/badge/ALL%20FILES%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/ALL%20FILES%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/embedded-c/Arm-cortex-m4/all%20files)
 
 # LAB 3
 #  report on ARM CORTEX-M4 ( TIVAC TM4C123GXL )
@@ -657,7 +657,7 @@ File Attributes
 
 
 ### Disassemply of the elf image for refrance 
-[![MIT License](https://img.shields.io/badge/dis%20assembly%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/dis%20assembly%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/blob/main/embedded-c/Arm-cortex-m4/all%20files/disas.txt)
 
 
 
@@ -678,9 +678,9 @@ setting the registers and then going to while to start yoggling the led throught
  
 
 
-[![MIT License](https://img.shields.io/badge/ALL%20FILES%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/ALL%20FILES%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/embedded-c/Arm-cortex-m4/all%20files)
 
-[![MIT License](https://img.shields.io/badge/go%20to%20top%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/go%20to%20top%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/embedded-c/Arm-cortex-m4)
 
 [![MIT License](https://img.shields.io/badge/go%20back%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main)
 
