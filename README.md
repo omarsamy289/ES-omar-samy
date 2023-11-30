@@ -19,7 +19,7 @@
 <ol>
 
 <details open >
-  <summary> <h1>  ✅ UNIT 2  </h1></summary> 
+  <summary> <h1>  ✅ UNIT 2 : standard-c  </h1></summary> 
 <ol>
 
 
@@ -40,7 +40,7 @@
 </details>
 
 <details  open>
-  <summary> <h1> 👨‍💻 UNIT 3 </h1></summary> 
+  <summary> <h1> 👨‍💻 UNIT 3 : embedded-c </h1></summary> 
 <ol>
 
 
@@ -57,7 +57,7 @@
 </details>
 
 <details>
-  <summary> <h1> 🚧 UNIT 4 </h1></summary> 
+  <summary> <h1> 🚧 UNIT 4 : data structure </h1></summary> 
 <ol>
 
 
