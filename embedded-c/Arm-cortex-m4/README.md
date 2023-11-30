@@ -377,7 +377,7 @@ dumpelf:
 ```
 
 
-### cortex-m3.elf sections
+### cortex-m4.elf symbols
 [![Jx6WeJn.md.png](https://iili.io/Jx6WeJn.md.png)](https://freeimage.host/i/Jx6WeJn)
 
 
