@@ -4,6 +4,16 @@
 
 # Data structure ( LIFO - FIFO -LINKED LIST ) 
 
+
+[![MIT License](https://img.shields.io/badge/LIFO%20FILES%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/system%20architect/data%20structure/all%20files/lifo)
+[![MIT License](https://img.shields.io/badge/FIFO%20FILES%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/system%20architect/data%20structure/all%20files/fifo)
+[![MIT License](https://img.shields.io/badge/LINKED%20LIST%20FILES%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/system%20architect/data%20structure/all%20files/linked%20list/c%20code)
+
+
+
+[![MIT License](https://img.shields.io/badge/go%20back%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main)
+
+
 # 1- LIFO : STACK data structure 
 
 
@@ -1429,9 +1439,9 @@ int reverse_list() {
 
 
 
-[![MIT License](https://img.shields.io/badge/LIFO%20FILES%20-7A5BE2)]()
-[![MIT License](https://img.shields.io/badge/FIFO%20FILES%20-7A5BE2)]()
-[![MIT License](https://img.shields.io/badge/LINKED%20LIST%20FILES%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/LIFO%20FILES%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/system%20architect/data%20structure/all%20files/lifo)
+[![MIT License](https://img.shields.io/badge/FIFO%20FILES%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/system%20architect/data%20structure/all%20files/fifo)
+[![MIT License](https://img.shields.io/badge/LINKED%20LIST%20FILES%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/system%20architect/data%20structure/all%20files/linked%20list/c%20code)
 
 
 
