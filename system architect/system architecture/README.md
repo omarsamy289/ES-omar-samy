@@ -1,8 +1,8 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=""><img src="https://iili.io/JuFUWs2.md.png" alt="771" border="0"></a><br /><a target='_blank' href='https://iili.io/JuFUWs2.md.png'>
 
-[![MIT License](https://img.shields.io/badge/C%20FILES%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/C%20FILES%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/system%20architect/system%20architecture/all%20files/c%20code)
 
-[![MIT License](https://img.shields.io/badge/snap%20shots%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/snap%20shots%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/system%20architect/system%20architecture/all%20files/snap%20shots)
 
 
 
@@ -505,9 +505,9 @@ US init ......
 ```
 
 
-[![MIT License](https://img.shields.io/badge/C%20FILES%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/C%20FILES%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/system%20architect/system%20architecture/all%20files/c%20code)
 
-[![MIT License](https://img.shields.io/badge/snap%20shots%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/snap%20shots%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/system%20architect/system%20architecture/all%20files/snap%20shots)
 
 
 
