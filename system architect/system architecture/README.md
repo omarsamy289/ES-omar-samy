@@ -37,9 +37,7 @@
 
 > click button below to view the full output trace diagram
 
-[![MIT License](https://github.com/omarsamy289/ES-omar-samy/blob/main/system%20architect/system%20architecture/all%20files/snap%20shots/simulationtrace_fromttool.png)
-
-
+[![MIT License](https://img.shields.io/badge/full%20output%20trace%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/blob/main/system%20architect/system%20architecture/all%20files/snap%20shots/simulationtrace_fromttool.png)
 
 ### explanation of two of the cycles from the full output trace diagram ( sequance diagram )
 
