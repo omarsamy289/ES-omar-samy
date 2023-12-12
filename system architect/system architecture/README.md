@@ -37,7 +37,7 @@
 
 > click button below to view the full output trace diagram
 
-[![MIT License](https://img.shields.io/badge/full%20output%20trace%20-7A5BE2)](https://s5.gifyu.com/images/SiRwM.md.png)
+[![MIT License](https://github.com/omarsamy289/ES-omar-samy/blob/main/system%20architect/system%20architecture/all%20files/snap%20shots/simulationtrace_fromttool.png)
 
 
 
