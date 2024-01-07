@@ -3,15 +3,15 @@
 
 > click the button to view the pdf report ( system architecture of the project in only included in the pdf report )
 
-[![MIT License](https://img.shields.io/badge/project%20pdf%20report%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/project%20pdf%20report%20-7A5BE2)](https://online.fliphtml5.com/pczgc/dngj/)
 
 &nbsp;
 &nbsp;
 
-[![MIT License](https://img.shields.io/badge/all%20files%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/all%20files%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/first-term-projects/pressure-detection/all-files)
 
-[![MIT License](https://img.shields.io/badge/protues%20snap%20shot%20-7A5BE2)]()
-[![MIT License](https://img.shields.io/badge/TTOOL%20snap%20shot%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/protues%20capture%20-7A5BE2)](https://s13.gifyu.com/images/S021Q.gif)
+[![MIT License](https://img.shields.io/badge/TTOOL%20snap%20shot%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/first-term-projects/pressure-detection/TTool)
 
 
 &nbsp;
@@ -25,7 +25,7 @@
 # Embedded-c implementation 
 
 
-## protues snap shot
+## protues capture
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt Text](https://s13.gifyu.com/images/S021Q.gif)
  
  
@@ -634,7 +634,7 @@ past_value = current_value ;
 
 
 
-## protues snapshot
+## protues capture
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt Text](https://s13.gifyu.com/images/S021Q.gif)
 
 
@@ -644,23 +644,23 @@ past_value = current_value ;
 &nbsp;
 &nbsp;
 
-
 > click the button to view the pdf report ( system architecture of the project in only included in the pdf report )
 
-[![MIT License](https://img.shields.io/badge/project%20pdf%20report%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/project%20pdf%20report%20-7A5BE2)](https://online.fliphtml5.com/pczgc/dngj/)
 
 &nbsp;
 &nbsp;
 
-[![MIT License](https://img.shields.io/badge/all%20files%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/all%20files%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/first-term-projects/pressure-detection/all-files)
 
-[![MIT License](https://img.shields.io/badge/protues%20snap%20shot%20-7A5BE2)]()
-[![MIT License](https://img.shields.io/badge/TTOOL%20snap%20shot%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/protues%20capture%20-7A5BE2)](https://s13.gifyu.com/images/S021Q.gif)
+[![MIT License](https://img.shields.io/badge/TTOOL%20snap%20shot%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/first-term-projects/pressure-detection/TTool)
 
 
 &nbsp;
 &nbsp;
 [![MIT License](https://img.shields.io/badge/go%20back%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main)
+
 
 
 
