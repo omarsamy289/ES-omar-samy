@@ -72,18 +72,14 @@
 
 
 
-<details>
+<details open >
   <summary> <h1>  👨‍💻 UNIT 5  </h1></summary> 
 <ol>
 
 
- ## UNIT 5![](https://geps.dev/progress/20?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+ ## UNIT 5 ![](https://geps.dev/progress/60?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
 
-
-> **Warning**<br>
-sorry nothing here yet !
-
- ![Alt Text](https://cdn.dribbble.com/users/932640/screenshots/2470471/jq.gif)
+ [![MIT License](https://img.shields.io/badge/pressure%20detection%20system%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/first-term-projects/pressure-detection)
 
 </ol>
 </details>
@@ -121,7 +117,7 @@ sorry nothing here yet !
  -  ## UNIT 2 ![](https://geps.dev/progress/100?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
  -  ## UNIT 3 ![](https://geps.dev/progress/100?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
  -  ## UNIT 4 ![](https://geps.dev/progress/100?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
-## > UNIT 5 ![](https://geps.dev/progress/20?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+## > UNIT 5 ![](https://geps.dev/progress/60?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
 &nbsp;
 &nbsp;
 
