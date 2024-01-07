@@ -1,0 +1,223 @@
+
+Allocating common symbols
+Common symbol       size              file
+
+pressure_val        0x4               controller.o
+current_value       0x4               main.o
+controller_state_id
+                    0x1               controller.o
+func_pointer_pressure
+                    0x4               main.o
+past_value          0x4               main.o
+flash_ptr           0x4               main.o
+func_pointer_controller
+                    0x4               controller.o
+func_pointer_alarm  0x4               alarm.o
+pressure_state_id   0x1               main.o
+alarm_state_id      0x1               alarm.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x0000000008000000 0x0000000000020000 xr
+sram             0x0000000020000000 0x0000000000005000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+
+.text           0x0000000008000000      0x540
+ *(.vectors*)
+ .vectors       0x0000000008000000       0x1c startup.o
+                0x0000000008000000                vectors
+ *(.text*)
+ .text          0x000000000800001c       0xdc alarm.o
+                0x000000000800001c                Set_Alarm_actuator
+                0x0000000008000068                start_alarm
+                0x0000000008000076                stop_alarm
+                0x0000000008000084                SD_alarm_idle
+                0x00000000080000a8                SD_alarm_start
+                0x00000000080000d0                SD_alarm_stop
+ .text          0x00000000080000f8      0x130 controller.o
+                0x00000000080000f8                GPIO_INITIALIZATION
+                0x0000000008000148                Delay
+                0x0000000008000168                getPressureVal
+                0x0000000008000180                SD_controller_idle
+                0x00000000080001d0                SD_controller_busy
+ .text          0x0000000008000228        0x0 flash.o
+ .text          0x0000000008000228       0xb4 main.o
+                0x0000000008000228                setup
+                0x0000000008000264                main
+ .text          0x00000000080002dc       0x44 pressure.o
+                0x00000000080002dc                SD_pressure_idle
+                0x00000000080002f4                SD_pressure_reading
+ .text          0x0000000008000320       0x90 startup.o
+                0x0000000008000320                Usage_Fault_handler
+                0x0000000008000320                H_Fault_handler
+                0x0000000008000320                Default_Handler
+                0x0000000008000320                MM_Fault_handler
+                0x0000000008000320                NHI_handler
+                0x0000000008000320                Bus_Fault_handler
+                0x000000000800032c                reset_handler
+ *(.rodata)
+ *(.pressure_vals)
+ .pressure_vals
+                0x00000000080003b0      0x190 main.o
+                0x00000000080003b0                value_storage
+                0x0000000008000540                _E_text = .
+
+.glue_7         0x0000000008000540        0x0
+ .glue_7        0x0000000008000540        0x0 linker stubs
+
+.glue_7t        0x0000000008000540        0x0
+ .glue_7t       0x0000000008000540        0x0 linker stubs
+
+.vfp11_veneer   0x0000000008000540        0x0
+ .vfp11_veneer  0x0000000008000540        0x0 linker stubs
+
+.v4_bx          0x0000000008000540        0x0
+ .v4_bx         0x0000000008000540        0x0 linker stubs
+
+.iplt           0x0000000008000540        0x0
+ .iplt          0x0000000008000540        0x0 alarm.o
+
+.rel.dyn        0x0000000008000540        0x0
+ .rel.iplt      0x0000000008000540        0x0 alarm.o
+
+.data           0x0000000020000000        0x4 load address 0x0000000008000540
+                0x0000000020000000                _S_data = .
+ *(.data)
+ .data          0x0000000020000000        0x0 alarm.o
+ .data          0x0000000020000000        0x4 controller.o
+                0x0000000020000000                threshold
+ .data          0x0000000020000004        0x0 flash.o
+ .data          0x0000000020000004        0x0 main.o
+ .data          0x0000000020000004        0x0 pressure.o
+ .data          0x0000000020000004        0x0 startup.o
+                0x0000000020000004                . = ALIGN (0x4)
+                0x0000000020000004                _E_data = .
+
+.igot.plt       0x0000000020000004        0x0 load address 0x0000000008000544
+ .igot.plt      0x0000000020000004        0x0 alarm.o
+
+.bss            0x0000000020000004       0x29 load address 0x0000000008000544
+                0x0000000020000004                _S_bss = .
+ *(.bss*)
+ .bss           0x0000000020000004        0x0 alarm.o
+ .bss           0x0000000020000004        0x0 controller.o
+ .bss           0x0000000020000004        0x0 flash.o
+ .bss           0x0000000020000004        0x4 main.o
+                0x0000000020000004                count
+ .bss           0x0000000020000008        0x0 pressure.o
+ .bss           0x0000000020000008        0x0 startup.o
+                0x0000000020000008                _E_bss = .
+                0x0000000020000008                . = ALIGN (0x4)
+ COMMON         0x0000000020000008        0x5 alarm.o
+                0x0000000020000008                func_pointer_alarm
+                0x000000002000000c                alarm_state_id
+ *fill*         0x000000002000000d        0x3 
+ COMMON         0x0000000020000010        0xc controller.o
+                0x0000000020000010                pressure_val
+                0x0000000020000014                controller_state_id
+                0x0000000020000018                func_pointer_controller
+ COMMON         0x000000002000001c       0x11 main.o
+                0x000000002000001c                current_value
+                0x0000000020000020                func_pointer_pressure
+                0x0000000020000024                past_value
+                0x0000000020000028                flash_ptr
+                0x000000002000002c                pressure_state_id
+                0x000000002000102d                . = (. + 0x1000)
+                0x000000002000102d                stack_top = .
+LOAD alarm.o
+LOAD controller.o
+LOAD flash.o
+LOAD main.o
+LOAD pressure.o
+LOAD startup.o
+OUTPUT(pressure_detect.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000      0x78c
+ .debug_info    0x0000000000000000      0x15b alarm.o
+ .debug_info    0x000000000000015b      0x1d2 controller.o
+ .debug_info    0x000000000000032d      0x1f5 main.o
+ .debug_info    0x0000000000000522       0xe8 pressure.o
+ .debug_info    0x000000000000060a      0x182 startup.o
+
+.debug_abbrev   0x0000000000000000      0x3da
+ .debug_abbrev  0x0000000000000000       0xca alarm.o
+ .debug_abbrev  0x00000000000000ca      0x10d controller.o
+ .debug_abbrev  0x00000000000001d7       0xa6 main.o
+ .debug_abbrev  0x000000000000027d       0x96 pressure.o
+ .debug_abbrev  0x0000000000000313       0xc7 startup.o
+
+.debug_loc      0x0000000000000000      0x3d0
+ .debug_loc     0x0000000000000000      0x150 alarm.o
+ .debug_loc     0x0000000000000150      0x13c controller.o
+ .debug_loc     0x000000000000028c       0x58 main.o
+ .debug_loc     0x00000000000002e4       0x70 pressure.o
+ .debug_loc     0x0000000000000354       0x7c startup.o
+
+.debug_aranges  0x0000000000000000       0xa0
+ .debug_aranges
+                0x0000000000000000       0x20 alarm.o
+ .debug_aranges
+                0x0000000000000020       0x20 controller.o
+ .debug_aranges
+                0x0000000000000040       0x20 main.o
+ .debug_aranges
+                0x0000000000000060       0x20 pressure.o
+ .debug_aranges
+                0x0000000000000080       0x20 startup.o
+
+.debug_line     0x0000000000000000      0x3fe
+ .debug_line    0x0000000000000000       0x71 alarm.o
+ .debug_line    0x0000000000000071      0x232 controller.o
+ .debug_line    0x00000000000002a3        0x0 flash.o
+ .debug_line    0x00000000000002a3       0x8f main.o
+ .debug_line    0x0000000000000332       0x4d pressure.o
+ .debug_line    0x000000000000037f       0x7f startup.o
+
+.debug_str      0x0000000000000000      0x36d
+ .debug_str     0x0000000000000000      0x176 alarm.o
+                                        0x1d9 (size before relaxing)
+ .debug_str     0x0000000000000176       0xdc controller.o
+                                        0x24c (size before relaxing)
+ .debug_str     0x0000000000000252        0x8 flash.o
+                                         0xaf (size before relaxing)
+ .debug_str     0x000000000000025a       0x71 main.o
+                                        0x261 (size before relaxing)
+ .debug_str     0x00000000000002cb       0x1c pressure.o
+                                        0x1a7 (size before relaxing)
+ .debug_str     0x00000000000002e7       0x86 startup.o
+                                        0x1c7 (size before relaxing)
+
+.comment        0x0000000000000000       0x7b
+ .comment       0x0000000000000000       0x7b alarm.o
+                                         0x7c (size before relaxing)
+ .comment       0x000000000000007b       0x7c controller.o
+ .comment       0x000000000000007b       0x7c flash.o
+ .comment       0x000000000000007b       0x7c main.o
+ .comment       0x000000000000007b       0x7c pressure.o
+ .comment       0x000000000000007b       0x7c startup.o
+
+.ARM.attributes
+                0x0000000000000000       0x33
+ .ARM.attributes
+                0x0000000000000000       0x33 alarm.o
+ .ARM.attributes
+                0x0000000000000033       0x33 controller.o
+ .ARM.attributes
+                0x0000000000000066       0x33 flash.o
+ .ARM.attributes
+                0x0000000000000099       0x33 main.o
+ .ARM.attributes
+                0x00000000000000cc       0x33 pressure.o
+ .ARM.attributes
+                0x00000000000000ff       0x33 startup.o
+
+.debug_frame    0x0000000000000000      0x260
+ .debug_frame   0x0000000000000000       0xc8 alarm.o
+ .debug_frame   0x00000000000000c8       0xb0 controller.o
+ .debug_frame   0x0000000000000178       0x4c main.o
+ .debug_frame   0x00000000000001c4       0x4c pressure.o
+ .debug_frame   0x0000000000000210       0x50 startup.o
