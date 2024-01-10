@@ -2,7 +2,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=""><img src="https://iili.io/JIkvWXf.md.png" alt="771" border="0"></a><br /><a target='_blank' href='https://iili.io/JIkvWXf.md.png'>
 
 
-# Embeded System : learn in depth 
+# Embeded Systems : learn in depth 
 
 ## by : omar samy
 
@@ -96,7 +96,7 @@
 &nbsp;
 
 <details>
-  <summary> <h1> 📚 secend term 🚧 </h1></summary> 
+  <summary> <h1> 📚 second term 🚧 </h1></summary> 
 <ol>
 
 > **Warning**<br>
