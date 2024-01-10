@@ -1,9 +1,11 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=""><img src="https://s13.gifyu.com/images/S021k.png" alt="771" border="0"></a><br /><a target='_blank' href='https://s13.gifyu.com/images/S021k.png'>
 
+>[!NOTE]
+> click the button to view the pdf report ( system architecture of the project is only included in the pdf report )
 
-> click the button to view the pdf report ( system architecture of the project in only included in the pdf report )
+[![MIT License](https://img.shields.io/badge/project%20pdf%20fliphtml5%20-7A5BE2)](https://online.fliphtml5.com/pczgc/dngj/)
+[![MIT License](https://img.shields.io/badge/project%20pdf%20raw%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/blob/main/first-term-projects/pressure-detection/pdf/First%20term%20project%201_compressed.pdf)
 
-[![MIT License](https://img.shields.io/badge/project%20pdf%20report%20-7A5BE2)](https://online.fliphtml5.com/pczgc/dngj/)
 
 &nbsp;
 &nbsp;
@@ -644,9 +646,11 @@ past_value = current_value ;
 &nbsp;
 &nbsp;
 
-> click the button to view the pdf report ( system architecture of the project in only included in the pdf report )
+>[!NOTE]
+> click the button to view the pdf report ( system architecture of the project is only included in the pdf report )
 
-[![MIT License](https://img.shields.io/badge/project%20pdf%20report%20-7A5BE2)](https://online.fliphtml5.com/pczgc/dngj/)
+[![MIT License](https://img.shields.io/badge/project%20pdf%20fliphtml5%20-7A5BE2)](https://online.fliphtml5.com/pczgc/dngj/)
+[![MIT License](https://img.shields.io/badge/project%20pdf%20raw%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/blob/main/first-term-projects/pressure-detection/pdf/First%20term%20project%201_compressed.pdf)
 
 &nbsp;
 &nbsp;
