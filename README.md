@@ -5,6 +5,18 @@
 # Embeded Systems : learn in depth 
 
 ## by : omar samy
+&nbsp;
+# learn in depth profile
+&nbsp;
+ [![MIT License](https://img.shields.io/badge/learn%20in%20depth%20-%20omar%20samy%20-7A5BE2)](https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com)
+> **Note**
+ click on the certificate below to also view learn-in-depth profile  !
+## dynamic certificate
+<a href=""><img src="https://static.wixstatic.com/media/2f2dbe_5b662400120648ada9829681d791b17f~mv2.png/v1/fill/w_1004,h_720,al_c,q_90,enc_auto/yarapatmagedcertificate.png" alt="771" border="0"></a><br /><a target='_blank' href='[https://iili.io/JIkvWXf.md.png](https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com)'>
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## content of the repo: 
 
@@ -104,6 +116,8 @@ sorry nothing here yet !
 
  ![Alt Text](https://cdn.dribbble.com/users/932640/screenshots/2470471/jq.gif)
 
+ ![Alt Text](https://i.pinimg.com/originals/73/5c/ea/735cea56968f703df45d4c551ee3b160.gif)
+
 </ol>
 </details>
 
@@ -125,7 +139,17 @@ sorry nothing here yet !
 - ## UNIT 6 ![](https://geps.dev/progress/0?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
 &nbsp;
 
- ![Alt Text](https://i.pinimg.com/originals/73/5c/ea/735cea56968f703df45d4c551ee3b160.gif)
+
+# learn in depth profile
+&nbsp;
+ [![MIT License](https://img.shields.io/badge/learn%20in%20depth%20-%20omar%20samy%20-7A5BE2)](https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com)
+> **Note**
+ click on the certificate below to also view learn-in-depth profile  !
+## dynamic certificate
+<a href=""><img src="https://static.wixstatic.com/media/2f2dbe_5b662400120648ada9829681d791b17f~mv2.png/v1/fill/w_1004,h_720,al_c,q_90,enc_auto/yarapatmagedcertificate.png" alt="771" border="0"></a><br /><a target='_blank' href='[https://iili.io/JIkvWXf.md.png](https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com)'>
+
+
+
 
 ## 🔗 Links
 
