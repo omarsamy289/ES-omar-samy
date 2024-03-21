@@ -12,9 +12,12 @@
 > **Note**
  click on the certificate below to also view learn-in-depth profile  !
 ## dynamic certificate
-<a href=""><img src="https://static.wixstatic.com/media/2f2dbe_5b662400120648ada9829681d791b17f~mv2.png/v1/fill/w_1004,h_720,al_c,q_90,enc_auto/yarapatmagedcertificate.png" alt="771" border="0"></a><br /><a target='_blank' href='[https://iili.io/JIkvWXf.md.png](https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com)'>
+
+
+<a href="https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com"><img src="https://s12.gifyu.com/images/SVz6Q.png" alt="771" border="0"></a><br /><a target='https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com' href='https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com'>
 
 &nbsp;
+
 &nbsp;
 &nbsp;
 
@@ -146,7 +149,9 @@ sorry nothing here yet !
 > **Note**
  click on the certificate below to also view learn-in-depth profile  !
 ## dynamic certificate
-<a href=""><img src="https://static.wixstatic.com/media/2f2dbe_5b662400120648ada9829681d791b17f~mv2.png/v1/fill/w_1004,h_720,al_c,q_90,enc_auto/yarapatmagedcertificate.png" alt="771" border="0"></a><br /><a target='_blank' href='[https://iili.io/JIkvWXf.md.png](https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com)'>
+
+<a href="https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com"><img src="https://s12.gifyu.com/images/SVz6Q.png" alt="771" border="0"></a><br /><a target='https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com' href='https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com'>
+
 
 
 
