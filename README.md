@@ -9,12 +9,23 @@
 # learn in depth profile
 &nbsp;
  [![MIT License](https://img.shields.io/badge/learn%20in%20depth%20-%20omar%20samy%20-7A5BE2)](https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com)
+
+  &nbsp;
+ &nbsp;
+ 
+ <details >
+  <summary> <h1>   dynamic certificate  </h1></summary> 
+<ol>
+ &nbsp;
+  &nbsp;
 > **Note**
  click on the certificate below to also view learn-in-depth profile  !
 ## dynamic certificate
-
-
+ &nbsp;
+ &nbsp;
 <a href="https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com"><img src="https://s12.gifyu.com/images/SVz6Q.png" alt="771" border="0"></a><br /><a target='https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com' href='https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com'>
+</ol>
+</details>
 
 &nbsp;
 
@@ -29,7 +40,7 @@
 ### 
 
 
-<details open >
+<details >
   <summary> <h1> 📚 first term </h1></summary> 
 <ol>
 
@@ -110,9 +121,34 @@
 &nbsp;
 &nbsp;
 
-<details>
-  <summary> <h1> 📚 second term 🚧 </h1></summary> 
+<details open>
+  <summary> <h1> 📚 second term  </h1></summary> 
 <ol>
+
+<details open >
+  <summary> <h1>  👨‍💻 UNIT 6  </h1></summary> 
+<ol>
+&nbsp;
+&nbsp;
+
+ ## UNIT 6 ![](https://geps.dev/progress/70?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+
+<!-- [![MIT License]()]() -->
+
+</ol>
+</details>
+
+&nbsp;
+&nbsp;
+
+<details >
+  <summary> <h1>  🚧 UNIT 7  </h1></summary> 
+<ol>
+
+
+ ## UNIT 7 ![](https://geps.dev/progress/0?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+&nbsp;
+&nbsp;
 
 > **Warning**<br>
 sorry nothing here yet !
@@ -121,37 +157,68 @@ sorry nothing here yet !
 
  ![Alt Text](https://i.pinimg.com/originals/73/5c/ea/735cea56968f703df45d4c551ee3b160.gif)
 
+
+
+
+
+ [![MIT License]()]()
+
+</ol>
+</details>
+
+
 </ol>
 </details>
 
 &nbsp;
 &nbsp;
 
+
+<h1>Goals</h1>
+
+&nbsp;
+&nbsp;
 # > overall progress
-![45%](https://progress-bar.dev/45/?width=1000&color=7A5BE2&title=>%20overall%20progress)
+
+# 60% Progress
+[█████████▒▒▒▒▒▒▒] 60%
+
+<!-- ![50%](https://progress-bar.dev/50/?width=1000&color=7A5BE2&title=>%20overall%20progress) -->
  # first term : 
  -  ## UNIT 1 ![](https://geps.dev/progress/100?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
  -  ## UNIT 2 ![](https://geps.dev/progress/100?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
  -  ## UNIT 3 ![](https://geps.dev/progress/100?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
  -  ## UNIT 4 ![](https://geps.dev/progress/100?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
-## > UNIT 5 ![](https://geps.dev/progress/60?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+## > UNIT 5 ![](https://geps.dev/progress/90?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
 &nbsp;
 &nbsp;
 
  # second term : 
-- ## UNIT 6 ![](https://geps.dev/progress/0?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+- ## UNIT 6 ![](https://geps.dev/progress/60?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+- ## UNIT 7 ![](https://geps.dev/progress/0?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+
 &nbsp;
 
+
+ <details >
+  <summary> <h1>   dynamic certificate  </h1></summary> 
+<ol>
+ &nbsp;
+  &nbsp;
+> **Note**
+ click on the certificate below to also view learn-in-depth profile  !
+## dynamic certificate
+ &nbsp;
+ &nbsp;
+<a href="https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com"><img src="https://s12.gifyu.com/images/SVz6Q.png" alt="771" border="0"></a><br /><a target='https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com' href='https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com'>
+</ol>
+</details>
 
 # learn in depth profile
 &nbsp;
  [![MIT License](https://img.shields.io/badge/learn%20in%20depth%20-%20omar%20samy%20-7A5BE2)](https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com)
 > **Note**
  click on the certificate below to also view learn-in-depth profile  !
-## dynamic certificate
-
-<a href="https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com"><img src="https://s12.gifyu.com/images/SVz6Q.png" alt="771" border="0"></a><br /><a target='https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com' href='https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com'>
-
 
 
 
