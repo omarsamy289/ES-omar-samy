@@ -1,7 +1,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=""><img src="https://iili.io/dZxmHDQ.md.png" alt="771" border="0"></a><br /><a target='_blank' href='https://iili.io/dZxmHDQ.md.png'>
 
 
-[![MIT License](https://img.shields.io/badge/ALL%20FILES%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/ALL%20FILES%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/microcontroller-architecture/CLOCK-CONTROL/ALLFILES)
 
 # LAB 1 
 * enabling GPIOA CLK ON APB2 BUS
@@ -374,10 +374,10 @@ for (int i = 0; i < 5000; i++); // arbitrary delay
 
 
 
-[![MIT License](https://img.shields.io/badge/ALL%20FILES%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/ALL%20FILES%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/microcontroller-architecture/CLOCK-CONTROL/ALLFILES)
 
 
-[![MIT License](https://img.shields.io/badge/go%20back%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/go%20back%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy)
 
 &nbsp;
 &nbsp;
