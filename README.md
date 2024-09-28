@@ -133,6 +133,8 @@
 
  ## UNIT 6 ![](https://geps.dev/progress/70?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
 
+  [![MIT License](https://img.shields.io/badge/stm32f103cx%20CLOCK%20CONTROL-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/microcontroller-architecture/CLOCK-CONTROL)
+
 <!-- [![MIT License]()]() -->
 
 </ol>
@@ -189,12 +191,12 @@ sorry nothing here yet !
  -  ## UNIT 2 ![](https://geps.dev/progress/100?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
  -  ## UNIT 3 ![](https://geps.dev/progress/100?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
  -  ## UNIT 4 ![](https://geps.dev/progress/100?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
-## > UNIT 5 ![](https://geps.dev/progress/90?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+ -  ## UNIT 5 ![](https://geps.dev/progress/90?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
 &nbsp;
 &nbsp;
 
  # second term : 
-- ## UNIT 6 ![](https://geps.dev/progress/60?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+## > UNIT 6 ![](https://geps.dev/progress/60?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
 - ## UNIT 7 ![](https://geps.dev/progress/0?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
 
 &nbsp;
