@@ -240,10 +240,9 @@ sorry nothing here yet !
 # learn in depth profile
 &nbsp;
  [![MIT License](https://img.shields.io/badge/learn%20in%20depth%20-%20omar%20samy%20-7A5BE2)](https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com)
-> **Note**
- click on the certificate below to also view learn-in-depth profile  !
 
-
+&nbsp;
+&nbsp;
 
 
 ## 🔗 Links
