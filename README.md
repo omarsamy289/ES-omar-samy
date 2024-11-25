@@ -1,6 +1,23 @@
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=""><img src="https://iili.io/JIkvWXf.md.png" alt="771" border="0"></a><br /><a target='_blank' href='https://iili.io/JIkvWXf.md.png'>
+ 
+ <div align="center">
+ <a href=""><img src="https://iili.io/JIkvWXf.md.png" alt="771" border="0"></a><br /><a target='_blank' href='https://iili.io/JIkvWXf.md.png'>
+</div>
+ &nbsp;
+  &nbsp;
+  &nbsp;
 
+
+
+<div align="center">
+ 
+[![View Live Map](https://img.shields.io/badge/VIEW%20LIVE%20MAP-6A5BE2?style=for-the-badge)](https://s7.gifyu.com/images/SGlM2.gif)
+
+[![Live Map Preview](https://s7.gifyu.com/images/SGlM2.md.gif)]()
+
+</div>
+
+&nbsp;
 
 # Embeded Systems : learn in depth 
 
@@ -10,7 +27,7 @@
 &nbsp;
  [![MIT License](https://img.shields.io/badge/learn%20in%20depth%20-%20omar%20samy%20-7A5BE2)](https://www.learn-in-depth-store.com/certificate/omarsamy0001%40gmail.com)
 
-  &nbsp;
+
  &nbsp;
  
  <details >
