@@ -182,12 +182,35 @@
 
 
 
-<details >
-  <summary> <h1>  🚧 UNIT 7  </h1></summary> 
+<details open >
+  <summary> <h1>  👨‍💻 UNIT 7  </h1></summary> 
 <ol>
 
 
- ## UNIT 7 ![](https://geps.dev/progress/0?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+ ## UNIT 7 ![](https://geps.dev/progress/40?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+&nbsp;
+&nbsp;
+
+> [![MIT License](https://img.shields.io/badge/stm32f103c6%20GPIO%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/microcontroller-architecture/GPIO/stm32-GPIO)
+ &nbsp;
+ [![MIT License](https://img.shields.io/badge/ATMEGA32%20GPIO%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/microcontroller-architecture/GPIO/atmega32-GPIO)
+
+
+
+
+
+
+</ol>
+</details>
+
+
+
+<details >
+  <summary> <h1>  🚧 UNIT 8  </h1></summary> 
+<ol>
+
+
+ ## UNIT 8 ![](https://geps.dev/progress/0?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
 &nbsp;
 &nbsp;
 
@@ -242,8 +265,8 @@ sorry nothing here yet !
 
  # second term : 
 ## > UNIT 6 ![](https://geps.dev/progress/95?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
-- ## UNIT 7 ![](https://geps.dev/progress/0?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
-
+- ## UNIT 7 ![](https://geps.dev/progress/40?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+## > UNIT 8 ![](https://geps.dev/progress/0?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
 &nbsp;
 
 
