@@ -11,9 +11,9 @@
 
 <div align="center">
  
-[![View Live Map](https://img.shields.io/badge/VIEW%20LIVE%20MAP-6A5BE2?style=for-the-badge)](https://s7.gifyu.com/images/SGlM2.gif)
+[![View Live Map](https://img.shields.io/badge/VIEW%20LIVE%20MAP-6A5BE2?style=for-the-badge)](https://omarsamy289.github.io/)
 
-[![Live Map Preview](https://s7.gifyu.com/images/SGlM2.md.gif)]()
+<!-- [![Live Map Preview](https://s7.gifyu.com/images/SGlM2.md.gif)]() -->
 
 </div>
 
