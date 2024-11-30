@@ -264,9 +264,9 @@ sorry nothing here yet !
 &nbsp;
 
  # second term : 
-## > UNIT 6 ![](https://geps.dev/progress/95?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
-- ## UNIT 7 ![](https://geps.dev/progress/40?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
-## > UNIT 8 ![](https://geps.dev/progress/0?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+- ## UNIT 6 ![](https://geps.dev/progress/95?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+## > UNIT 7 ![](https://geps.dev/progress/40?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
+- ## UNIT 8 ![](https://geps.dev/progress/0?dangerColor=7A5BE2&warningColor=7A5BE2&successColor=006600)
 &nbsp;
 
 
