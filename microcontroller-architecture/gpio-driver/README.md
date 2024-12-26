@@ -24,7 +24,7 @@
  
 &nbsp;
 * on stm32f103c6 :
->* creating hash file for all the mcu features and priprals
+>* creating hash file for all the mcu features and priphrals
 >* creating gpio driver featuring gpio modes and some API's
 &nbsp;
 
