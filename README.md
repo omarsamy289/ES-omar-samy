@@ -198,7 +198,7 @@
 >[![MIT License](https://img.shields.io/badge/lcd%20keypad%20drivers%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/microcontroller-architecture/GPIO/LCD-KEYPAD-DRIVERS)
 
 
->[![MIT License](https://img.shields.io/badge/GPIO%20DRIVER%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/microcontroller-architecture/GPIO/gpio-driver)
+>[![MIT License](https://img.shields.io/badge/GPIO%20DRIVER%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/microcontroller-architecture/gpio-driver)
 
 
 
