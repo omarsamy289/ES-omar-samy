@@ -36,7 +36,7 @@
 
 ## MCU MAIN HASH FILE  : 
 
-* MAIN.c
+* stm32f103c6.h
 
 ```c code
 /**
@@ -228,7 +228,7 @@ typedef struct
 
 ## GPIO DRIVER HASH FILE  : 
 
-* MAIN.c
+* stm32f103c6_gpio.h
 
 ```c code
 /*
@@ -379,7 +379,7 @@ uint8_t     MCAL_GPIO_LCKPIN(GPIO_typedef* GPIOx , uint16_t PinNumber) ;
 
 ## GPIO DRIVER SOURCE FILE  : 
 
-* MAIN.c
+* * stm32f103c6_gpio.c
 
 ```c code
 
