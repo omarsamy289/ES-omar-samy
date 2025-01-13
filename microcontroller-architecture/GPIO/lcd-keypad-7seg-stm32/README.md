@@ -18,7 +18,7 @@
 
 
 
-[![MIT License](https://img.shields.io/badge/ALL%20FILES%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/ALL%20FILES%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/microcontroller-architecture/GPIO/lcd-keypad-7seg-stm32/ALL%20FILES)
 
 # LAB  - GPIO DRIVERS GONFIGURATION ON STM32F103C6
  
@@ -1710,10 +1710,9 @@ int main(void) {
 
 
 
-[![MIT License](https://img.shields.io/badge/ALL%20FILES%20-7A5BE2)]()
+[![MIT License](https://img.shields.io/badge/ALL%20FILES%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/microcontroller-architecture/GPIO/lcd-keypad-7seg-stm32/ALL%20FILES)
 
 
-[![MIT License](https://img.shields.io/badge/go%20back%20-7A5BE2)]()
 
 &nbsp;
 &nbsp;
