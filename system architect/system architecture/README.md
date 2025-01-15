@@ -1,4 +1,4 @@
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=""><img src="https://iili.io/JuFUWs2.md.png" alt="771" border="0"></a><br /><a target='_blank' href='https://iili.io/JuFUWs2.md.png'>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=""><img src="https://iili.io/JuFUWs2.md.png" alt="771" border="0"></a><br /><a target='' href='https://iili.io/JuFUWs2.md.png'>
 
 [![MIT License](https://img.shields.io/badge/C%20FILES%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/tree/main/system%20architect/system%20architecture/all%20files/c%20code)
 
@@ -14,23 +14,23 @@
 #  TTool : Block diagram 
 
 
-<a href=""><img src="https://s5.gifyu.com/images/SiRTz.png" alt="771" border="0"></a><br /><a target='_blank' href='https://s5.gifyu.com/images/SiRTz.png'>
+<a href=""><img src="https://github.com/omarsamy289/ES-omar-samy/blob/main/system%20architect/system%20architecture/all%20files/snap%20shots/block%20diagram.png?raw=true" alt="771" border="0"></a><br /><a target=''>
 
-## US_sensor state machine 
+>* US_sensor state machine 
 
-<a href=""><img src="https://s5.gifyu.com/images/SiRTo.png" alt="771" border="0"></a><br /><a target='_blank' href='https://s5.gifyu.com/images/SiRTo.png'>
-
-
-## DC_motor state machine 
+<a href=""><img src="https://github.com/omarsamy289/ES-omar-samy/blob/main/system%20architect/system%20architecture/all%20files/snap%20shots/US_sensor%20%20stat%20machine.png?raw=true" alt="771" border="0"></a><br /><a target=' '>
 
 
-<a href=""><img src="https://s5.gifyu.com/images/SiRTA.png" alt="771" border="0"></a><br /><a target='_blank' href='https://s5.gifyu.com/images/SiRTA.png'>
+>* DC_motor state machine 
 
 
-## CA block state machine 
+<a href=""><img src="https://github.com/omarsamy289/ES-omar-samy/blob/main/system%20architect/system%20architecture/all%20files/snap%20shots/DC_motor%20%20stat%20machine.png?raw=true" alt="771" border="0"></a><br /><a target='_blank' href=''>
 
 
-<a href=""><img src="https://s5.gifyu.com/images/SiRTG.png" alt="771" border="0"></a><br /><a target='_blank' href='https://s5.gifyu.com/images/SiRTG.png'>
+>* CA block state machine 
+
+
+<a href=""><img src="https://github.com/omarsamy289/ES-omar-samy/blob/main/system%20architect/system%20architecture/all%20files/snap%20shots/CA_block%20%20stat%20machine.png?raw=true" alt="771" border="0"></a><br /><a target='_blank' href=''>
 
 
 ## the full output trace from interactive simulation ( sequance diagram )
@@ -39,9 +39,9 @@
 
 [![MIT License](https://img.shields.io/badge/full%20output%20trace%20-7A5BE2)](https://github.com/omarsamy289/ES-omar-samy/blob/main/system%20architect/system%20architecture/all%20files/snap%20shots/simulationtrace_fromttool.png)
 
-### explanation of two of the cycles from the full output trace diagram ( sequance diagram )
+>* explanation of two of the cycles from the full output trace diagram ( sequance diagram )
 
-<a href=""><img src="https://s5.gifyu.com/images/SiRww.png" alt="771" border="0"></a><br /><a target='_blank' href='https://s5.gifyu.com/images/SiRww.png'>
+<a href=""><img src="https://github.com/omarsamy289/ES-omar-samy/blob/main/system%20architect/system%20architecture/all%20files/snap%20shots/simulationtrace_fromttool_explained.png?raw=true" alt="771" border="0"></a><br /><a target='' href=''>
 
 
 
